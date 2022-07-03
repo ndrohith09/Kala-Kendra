@@ -9,26 +9,23 @@
 - You are taken to the art generator space after giving the voice command `art generator` .
 - Just talk about the art you need to produce. For example `generate art for city at night` .
 
-![AI art](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-3.png?alt=media&token=15f2e621-0d19-425b-abf1-1338705c56d8) 
+![AI art](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-11.png?alt=media&token=3b8f1c45-7898-461d-a5a1-ead91ddb5113) 
 
 - The output will be generated for the desired input.
-![AI Art generator](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-2.png?alt=media&token=0605352d-3f87-441e-ac52-08346f965082)
+![AI Art generator](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-12.png?alt=media&token=47932b81-4824-4f04-9e71-7cf8492e8e85)
 
 ### **AI Caption generator**
 - The AI-based caption generator can generate captions for your images within seconds.
 - Giving the voice command `caption generator` will bring you to the art generator area.
 - When you say the command `upload caption file` , a dialog box appears, allowing you to choose the image for which you need to create a caption.
-
-![AI caption generator](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-4.png?alt=media&token=cef67ac5-07fe-4842-a705-8c72c739b1e3)
-
 - Once the image is uploaded you can see the preview of the uploaded image below.
 - The caption for your image will now be generated when you speak on the `generate caption` or by pressing the `generate button`.
 
-![AI caption generator](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-5.png?alt=media&token=63c4abec-4a67-49ea-b7b5-2d7c239a1ad9)
+![AI caption generator](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-13.png?alt=media&token=34b9ec4c-d00d-470b-84ca-0cc684120776)
 
 - Once the caption has been created, use the command `speak caption` or by clicking on the `speak button` to have the AI read out your generated caption.
 
-![AI caption generator](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-6.png?alt=media&token=246dfb40-ecb8-4fbd-99e8-73fba55b9d9e)
+![AI caption generator](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-14.png?alt=media&token=27edb6c1-75c5-4f66-9312-66f675d791cd)
 
 ### **Color Restoration**
 - For restoring color to your image , upload the image url of the specified image and press generate button. 
