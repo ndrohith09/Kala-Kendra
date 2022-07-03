@@ -33,14 +33,14 @@
 ### **Color Restoration**
 - For restoring color to your image , upload the image url of the specified image and press generate button. 
 
-[image color](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-7.png?alt=media&token=64fca4e4-2318-41c4-80a4-dea48dc60a49)
-[image color](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-8.png?alt=media&token=cbb46d98-ad57-46e2-a3d6-f848f4fd16f7)
+![image color](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-7.png?alt=media&token=64fca4e4-2318-41c4-80a4-dea48dc60a49)
+![image color](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-8.png?alt=media&token=cbb46d98-ad57-46e2-a3d6-f848f4fd16f7)
 
 - For restoring color to your video , upload the video url of the specified video and press generate button. 
 
-[video color](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-9.png?alt=media&token=a419400b-fbe7-41aa-b9fd-918b578538d3)
+![video color](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-9.png?alt=media&token=a419400b-fbe7-41aa-b9fd-918b578538d3)
 
-[video color](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-10.png?alt=media&token=6598d584-7196-416f-937f-10659f642a90)
+![video color](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/as-10.png?alt=media&token=6598d584-7196-416f-937f-10659f642a90)
 
 ## How we built it
 - The AI art generator was created using Generative adversarial network and Imagenet 16384.
